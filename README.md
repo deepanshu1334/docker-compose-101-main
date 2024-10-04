@@ -1,0 +1,2 @@
+# docker-compose-101
+Docker installation: Make sure that Docker is installed on your machine. Docker enables the creation and management of containers, which is crucial for following along with the tutorial. You can follow the below instructions to install it.
